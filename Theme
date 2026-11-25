@@ -1,3 +1,4 @@
+window.__CELESTIAL_POST_LOADED__ = true;
 // ==UserScript==
 // @name         Celestial Post — Theme + Swipes + Quick OOC
 // @namespace    https://aistudio.google.com/
